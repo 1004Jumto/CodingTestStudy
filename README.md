@@ -1,3 +1,6 @@
+<img width="1000" height="450" alt="image" src="https://github.com/user-attachments/assets/cc996d74-a44b-4213-8d97-5e94ddb52820" />
+
+
 ## 🔥코딩 테스트 스터디🔥
 - **JAVA 자료구조/알고리즘 코테** 스터디입니다.
 - 매 주 **✔화요일** 까지 매일 한 챕터 [5문제]를 풀고, **✔수요일** 코드 리뷰를 진행합니다.
@@ -17,8 +20,8 @@
     <td>백준, 프로그래머스 등</td>
   </tr>
   <tr>
-    <td>이주의 문제</td>
-    <td><a href="https://github.com/CodingTestStudy/blob/main/Picked.md"><b>[이주의 문제]</b></td>
+    <td>오늘의 문제</td>
+    <td><a href="https://github.com/Java-CodingTestStudy/CodingTestStudy/blob/main/Picked.md"><b>[오늘의 문제]</b></td>
   </tr>
   <tr>
     <td>언어</td>
