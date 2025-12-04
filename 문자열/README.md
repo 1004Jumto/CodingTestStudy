@@ -1,5 +1,15 @@
+## 📅 진행 
+
+| 문제 | 예진 | 채원 | 성준 | 민석 | 훈주 | 의선
+| :---: | :---: | :---: | :---: | :---: |:---: | :---: |
+| 12 문제 | ✔️ |  🔟 | 🔟 | ✔️ | 🔟 |  🔟 |
+
+> ✔️ 다 품  
+> ❌ 못 품  
+> 1️⃣2️⃣3️⃣4️⃣5️⃣ 푼 문제 수
 
 
+## 문자열 
 
 - StringBuilder, StringBuffer: [String-StringBuffer-StringBuilder-차이점-성능-비교](https://inpa.tistory.com/entry/JAVA-%E2%98%95-String-StringBuffer-StringBuilder-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90)
 
